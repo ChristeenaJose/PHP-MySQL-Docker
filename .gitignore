@@ -1,0 +1,9 @@
+# Ignore database volume data
+db_data/
+
+# Ignore environment file with sensitive credentials
+.env
+
+# Ignore Docker build files
+docker-compose.override.yml
+
